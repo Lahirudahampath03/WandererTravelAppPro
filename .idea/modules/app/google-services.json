@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283156249281",
+    "firebase_url": "https://wanderer-travel-app.firebaseio.com",
+    "project_id": "wanderer-travel-app",
+    "storage_bucket": "wanderer-travel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283156249281:android:7fe083cd3c41c5059f3240",
+        "android_client_info": {
+          "package_name": "com.example.wanderertravelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283156249281-1t4toigdmpg7q61cgv2j343frilb394u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wanderertravelapp",
+            "certificate_hash": "eebcb5620437d61a6975a24bbf7f99d053373eb0"
+          }
+        },
+        {
+          "client_id": "283156249281-c3k1j2hkuaod86jduk23ntrel0s7u8gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OrGqdZSk2JT9NtqdN85hRL4XSQDApHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283156249281-c3k1j2hkuaod86jduk23ntrel0s7u8gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
